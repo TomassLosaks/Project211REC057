@@ -30,5 +30,7 @@ Es bieži izmantoju sociālos tīklus un vēl vairāk sarakstes tīklus. Man ir 
     https://t.me/News211REC057Bot
 
 Bota nosaukums: @News211REC057Bot
+
 Bota token: 6366025247:AAHxq1ItTERwWPuRFI1OUhWasEDaS_r4CEg
+
 Čata ID: 507643624
