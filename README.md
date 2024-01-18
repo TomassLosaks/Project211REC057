@@ -8,11 +8,11 @@ Kods ņem no galvenās ziņas virsrakstu, galveno aprakstu un unikālo linku.
 
 2. # Izskaidrosiet kādas Python bibliotēkas un kāpēc tiek izmantotas projekta izstrādes laikā:
 Savā projektā es izmantoju bibliotēkas:
-    1. pip install telebot - Šī bibliotēka izmantota priekš Telegram bota
-    2. pip install selenium - Priekš veb-brauzera automatizācijas
-    3. pip install beautifulsoup4 - Lai analizētu HTML kodu tīmekļa lapai
-    4. import time (Standarta biblitēka Python) - Lai var likt pauzi kodā
-    5. Drivers ChromeDriver - ChromeDriver tiek izmantots kopā ar Selenium bibliotēku, lai automatizētu Google Chrome tīmekļa pārlūkprogrammu
+    * pip install telebot - Šī bibliotēka izmantota priekš Telegram bota
+    * pip install selenium - Priekš veb-brauzera automatizācijas
+    * pip install beautifulsoup4 - Lai analizētu HTML kodu tīmekļa lapai
+    * import time (Standarta biblitēka Python) - Lai var likt pauzi kodā
+    * Drivers ChromeDriver - ChromeDriver tiek izmantots kopā ar Selenium bibliotēku, lai automatizētu Google Chrome tīmekļa pārlūkprogrammu
 
 3. #  Aprakstīsies programmatūras izmantošanas metodes:
 Programmu var izmantot ērtai un ātrai galveno Latvijas ziņu apskatei. Nav nepieciešams doties uz ziņu lapu ar lielu informācijas daudzumu.
