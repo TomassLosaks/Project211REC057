@@ -8,6 +8,7 @@ Kods ņem no galvenās ziņas virsrakstu, galveno aprakstu un unikālo linku.
 
 2. # Izskaidrosiet kādas Python bibliotēkas un kāpēc tiek izmantotas projekta izstrādes laikā:
 Savā projektā es izmantoju bibliotēkas:
+
     1. pip install telebot - Šī bibliotēka izmantota priekš Telegram bota
 
     2. pip install selenium - Priekš veb-brauzera automatizācijas
