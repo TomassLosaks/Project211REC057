@@ -50,7 +50,7 @@ while True:
 
 
             message_text = f"<b>{title}</b>\n{title_lead}\n\nVairāk par ziņu: {link}"
-            bot.send_message(chat_id=-1002115274816, text=message_text, parse_mode="HTML") #507643624 #-1002115274816
+            bot.send_message(chat_id=507643624, text=message_text, parse_mode="HTML")
             last_sent_url = link
 
             with open('news_database.txt', 'a', encoding='utf-8') as file:
