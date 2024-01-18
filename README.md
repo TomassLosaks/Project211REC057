@@ -34,3 +34,17 @@ Bota nosaukums: @News211REC057Bot
 Bota token: 6366025247:AAHxq1ItTERwWPuRFI1OUhWasEDaS_r4CEg
 
 Čata ID: 507643624
+
+6. # Avoti, kuri es izmantoju:
+
+    https://code.visualstudio.com/
+
+    https://desktop.telegram.org/
+
+    https://www.youtube.com/
+
+    https://www.lsm.lv/
+
+    https://chromedriver.chromium.org/downloads
+
+    https://core.telegram.org/bots
