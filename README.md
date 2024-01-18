@@ -27,13 +27,13 @@ Es bieži izmantoju sociālos tīklus un vēl vairāk sarakstes tīklus. Man ir 
     https://youtu.be/HLIdZcWYu3Y
 
 5. # Pa šo linku atrodas pats bots, kur atnāk ziņas:
-    https://t.me/News211REC057Bot
+    https://t.me/+U0yRRVchDqhmNGRk
 
-Bota nosaukums: @News211REC057Bot
+Bota nosaukums: News Bot 211REC057
 
 Bota token: 6366025247:AAHxq1ItTERwWPuRFI1OUhWasEDaS_r4CEg
 
-Čata ID: 507643624
+Čata ID: -1002143538255
 
 6. # Avoti, kuri es izmantoju:
 
